@@ -1,0 +1,26 @@
+{
+  "name": "badgebot-slackbot",
+  "version": "1.0.0",
+  "description": "May, 2026 Build Together event I'm facilitating for WDAI",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PattyOBrienNovak/BadgeBot-Slackbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PattyOBrienNovak/BadgeBot-Slackbot/issues"
+  },
+  "homepage": "https://github.com/PattyOBrienNovak/BadgeBot-Slackbot#readme",
+  "dependencies": {
+    "@slack/bolt": "^4.7.2",
+    "dotenv": "^17.4.2"
+  }
+}

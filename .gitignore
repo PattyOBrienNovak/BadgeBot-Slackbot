@@ -1,0 +1,9 @@
+# Secret tokens — never commit these
+.env
+.env.local
+.env*.local
+
+node_modules/
+
+# OS / editor noise
+.DS_Store
